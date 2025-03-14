@@ -36,9 +36,9 @@
 
 ## BEHAVIORAL PATTERNS
 
-### Chain of Responsibility
+### Chain of Responsibility [link](behavioral/chain_of_responsibility/chain_of_responsibility.md)
 
-### Command
+### Command [link]()
 
 ### Interpreter
 

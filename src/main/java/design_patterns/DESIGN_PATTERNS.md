@@ -40,6 +40,8 @@
 
 ### Command [link]()
 
+### Template Method [link](./behavioral/template_method/template method.md)
+
 ### Interpreter
 
 ### Mediator
